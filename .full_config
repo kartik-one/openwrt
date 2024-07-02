@@ -4420,6 +4420,7 @@ CONFIG_WOLFSSL_ALT_NAMES=y
 #
 # Telephony
 #
+CONFIG_PACKAGE_libpcre2=y
 # CONFIG_PACKAGE_bcg729 is not set
 # CONFIG_PACKAGE_dahdi-tools-libtonezone is not set
 # CONFIG_PACKAGE_gsmlib is not set
